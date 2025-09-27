@@ -1,6 +1,6 @@
 professor-profile/
- ├── _config.yml
  ├── index.md
+ ├── _config.yml
  ├── about.md
  ├── research.md
  ├── publications.md
